@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Emily Rodriguez",
+        "age": 19,
+        "grade": "Sophomore",
+        "major": "Biology"
+    },
+    {
+        "name": "Ethan Nguyen",
+        "age": 20,
+        "grade": "Junior",
+        "major": "Computer Science"
+    },
+    {
+        "name": "Olivia Martinez",
+        "age": 21,
+        "grade": "Senior",
+        "major": "Psychology"
+    },
+    {
+        "name": "Jacob Thompson",
+        "age": 22,
+        "grade": "Senior",
+        "major": "Electrical Engineering"
+    },
+    {
+        "name": "Sophia Hernandez",
+        "age": 19,
+        "grade": "Sophomore",
+        "major": "English Literature"
+    },
+    {
+        "name": "Daniel Nguyen",
+        "age": 20,
+        "grade": "Junior",
+        "major": "History"
+    },
+    {
+        "name": "Isabella Wilson",
+        "age": 21,
+        "grade": "Senior",
+        "major": "Mathematics"
+    },
+    {
+        "name": "Michael Garcia",
+        "age": 22,
+        "grade": "Senior",
+        "major": "Chemistry"
+    },
+    {
+        "name": "Ava Smith",
+        "age": 19,
+        "grade": "Sophomore",
+        "major": "Computer Science"
+    },
+    {
+        "name": "William Taylor",
+        "age": 20,
+        "grade": "Junior",
+        "major": "Political Science"
+    },
+    {
+        "name": "Emma Brown",
+        "age": 21,
+        "grade": "Senior",
+        "major": "Sociology"
+    },
+    {
+        "name": "James Robinson",
+        "age": 22,
+        "grade": "Senior",
+        "major": "Physics"
+    },
+    {
+        "name": "Mia Lewis",
+        "age": 19,
+        "grade": "Sophomore",
+        "major": "Economics"
+    },
+    {
+        "name": "Alexander Lee",
+        "age": 20,
+        "grade": "Junior",
+        "major": "Computer Engineering"
+    },
+    {
+        "name": "Charlotte Hall",
+        "age": 21,
+        "grade": "Senior",
+        "major": "Art History"
+    }
+]
